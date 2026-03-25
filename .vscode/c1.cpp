@@ -4,7 +4,7 @@ class araba{
     public:
     string marka;
     int hiz;
-    void bilgilerigoster(){
+    void bilgileriahmed(){
         cout << "marka:" << marka << endl;
         cout << "hiz:" << hiz << "km/s" << endl; 
     }
